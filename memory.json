@@ -1,0 +1,58 @@
+{
+  "sarah@example.com": [
+    {
+      "from": "sarah@example.com",
+      "to": "support@yourapp.com",
+      "subject": "Payment not going through",
+      "body": "Hi, I tried paying for my subscription twice but it keeps failing. Can you please fix this?",
+      "timestamp": "2025-10-17T12:31:17.690764",
+      "intent": "request"
+    },
+    {
+      "from": "sarah@example.com",
+      "to": "support@yourapp.com",
+      "subject": "Payment not going through",
+      "body": "Hi, I tried paying for my subscription twice but it keeps failing. Can you please fix this?",
+      "timestamp": "2025-10-17T12:32:13.326077",
+      "intent": "request"
+    },
+    {
+      "from": "sarah@example.com",
+      "to": "support@yourapp.com",
+      "subject": "Payment not going through",
+      "body": "Hi, I tried paying for my subscription twice but it keeps failing. Can you please fix this?",
+      "timestamp": "2025-10-17T12:48:54.855088",
+      "intent": "request"
+    }
+  ],
+  "john@example.com": [
+    {
+      "from": "john@example.com",
+      "to": "support@yourapp.com",
+      "subject": "Very disappointed with service",
+      "body": "Your service has been terrible lately. I've experienced multiple outages and the support is slow. This is unacceptable for a paying customer!",
+      "timestamp": "2025-10-17T12:50:29.347426",
+      "intent": "complaint"
+    }
+  ],
+  "alice@company.org": [
+    {
+      "from": "alice@company.org",
+      "to": "support@yourapp.com",
+      "subject": "Question about enterprise pricing",
+      "body": "Hello, I'm interested in your enterprise plan. Could you please send me information about pricing and features? Also, do you offer any discounts for non-profits?",
+      "timestamp": "2025-10-17T12:50:38.223829",
+      "intent": "inquiry"
+    }
+  ],
+  "mike@user.com": [
+    {
+      "from": "mike@user.com",
+      "to": "support@yourapp.com",
+      "subject": "Loving the new update!",
+      "body": "Just wanted to say the latest app update is fantastic! The new dashboard is much more intuitive and the performance improvements are noticeable. Great work team!",
+      "timestamp": "2025-10-17T12:50:44.011427",
+      "intent": "feedback"
+    }
+  ]
+}
